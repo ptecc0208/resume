@@ -18,8 +18,8 @@
 &emsp;&emsp;&emsp;출동 슈퍼윙스 사운드 제작 / 두다다쿵 극장판 사운드 제작 / 시간의 여행자 루크 믹스
 
 ### :sparkles::boom: Tools :boom::sparkles:
-![Protools](https://img.shields.io/badge/com2us%20-%23FF0000.svg?style=for-the-badge&logo=com2us&logoColor=white)
-![Cubase](https://img.shields.io/badge/com2us%20-%23FF0000.svg?style=for-the-badge&logo=com2us&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Protools%20-%23FF0000.svg?style=for-the-badge&logo=protools&logoColor=violet&logoSize=auto&label=&labelColor=White&color=black&cacheSeconds=3600)
+![Static Badge](https://img.shields.io/badge/Cubase%20-%23FF0000.svg?style=for-the-badge&logo=Cubase&logoColor=violet&logoSize=auto&label=&labelColor=White&color=black&cacheSeconds=3600)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -29,9 +29,4 @@
 #### :waxing_crescent_moon: Contact :waxing_crescent_moon:
 
 ![Contact](https://img.shields.io/badge/ptecc@naver.com-008DE4?style=for-the-badge&=dash&logoColor=white)
-
-
-![Ptecc208's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptecc208&show_icons=true&theme=radical)
-<img src="https://github.com/ptecc208/ptecc208/blob/output/github-snake-dark.svg" width="100%">
-
 
