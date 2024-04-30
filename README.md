@@ -6,10 +6,12 @@
 
 #### 안녕하세요. 게임 사운드 디자이너 박진수입니다.
 #### 게임 사운드 디자인 및 게임 엔진을 활용한 적용 및 기술 연구를 하고 있습니다.
+###
 
 ### :rocket: Employment History :rocket:
 #### 컴투스 (2021.05 ~ 2024.03)
 ####    서머너즈 워 크로니클 (MMORPG) 게임 내 사운드 제작, 믹스/마스터링, 적용 및 QA
+###
 
 #### 스튜디오 도마 (2020.12 ~ 2021.04)
 ####    넷이즈_G83 shooting game
@@ -19,6 +21,7 @@
 ####    출동 슈퍼윙스 사운드 제작
 ####    두다다쿵 극장판 사운드 제작
 ####    시간의 여행자 루크 믹스
+###
 
 ### :sparkles::boom: Tools :boom::sparkles:
 ![Protools](https://img.shields.io/badge/com2us%20-%23FF0000.svg?style=for-the-badge&logo=com2us&logoColor=white)
