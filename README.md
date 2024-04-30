@@ -6,7 +6,7 @@
 #### 게임 사운드 디자인 및 게임 엔진을 활용한 적용 및 기술 연구를 하고 있습니다.
 ###
 
-### :rocket: Employment History :rocket:
+### *:rocket: Employment History :rocket:*
 #### - 컴투스 (2021.05 ~ 2024.03)
 &emsp;&emsp;&emsp;서머너즈 워 크로니클 (MMORPG) 게임 내 사운드 제작, 믹스/마스터링, 적용 및 QA
 
@@ -17,9 +17,9 @@
 
 &emsp;&emsp;&emsp;출동 슈퍼윙스 사운드 제작 / 두다다쿵 극장판 사운드 제작 / 시간의 여행자 루크 믹스
 
-### :boom: Education & Experience :boom:
+### *:boom: Education & Experience :boom:*
 #### - 백석대학교 실용음악과 음향파트 (2013.03 ~ 2020.08)
-#### - 약 30개의 음반에 Vox/Inst 녹음, 믹스&마스터링 참여
+#### - 약 40개의 음반에 Vox/Inst 녹음, 믹스&마스터링 참여
 #### - 다양한 공연의 음향 오퍼레이터, 무대 크루 참여
 
 ### :sparkles: Tools :sparkles:
