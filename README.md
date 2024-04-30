@@ -43,6 +43,7 @@
 ####  - 워드프로세서 1급
 
 ### * Portfolio *
+[![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
 
 
 #### :waxing_crescent_moon: Contact :waxing_crescent_moon:
