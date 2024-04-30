@@ -44,14 +44,15 @@
 
 ---
 
-
-
 ### *:sparkles: Portfolio :sparkles:*
+#### - 리니지W 트레일러 3종 merged
+
+
 #### - 명조 워더링 인게임 스킬 사운드
 [![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
 
+---
 
 #### :waxing_crescent_moon: Contact :waxing_crescent_moon:
-
 ![Contact](https://img.shields.io/badge/ptecc@naver.com-008DE4?style=for-the-badge&=dash&logoColor=white)
 
