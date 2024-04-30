@@ -2,18 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&random=false&width=435&lines=Hello!+I'm+jinsu+Park)](https://git.io/typing-svg)
 
-#### I am currently learning backend development to create a web application that I can enjoy using. 
-#### Previously, I worked as a game sound designer at Com2us Corporation for three years, participating in game development.
+### 박진수
 
-### :sparkles::rocket: Tech Stack :rocket::sparkles:
+#### 안녕하세요. 게임 사운드 디자이너 박진수입니다.
+#### 게임 사운드 디자인 및 게임 엔진을 활용한 적용 및 기술 연구를 하고 있습니다.
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="38" height="38" /></div>
+### :rocket: Employment History :rocket:
+#### 컴투스 (2021.05 ~ 2024.03)
+#### 스튜디오 도마 (2020.12 ~ 2021.04)
+
 
 ### :sparkles::boom: Tools :boom::sparkles:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Protools](https://img.shields.io/badge/com2us%20-%23FF0000.svg?style=for-the-badge&logo=com2us&logoColor=white)
+![Cubase](https://img.shields.io/badge/com2us%20-%23FF0000.svg?style=for-the-badge&logo=com2us&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 #### :waxing_crescent_moon: Contact :waxing_crescent_moon:
@@ -24,4 +29,4 @@
 ![Ptecc208's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptecc208&show_icons=true&theme=radical)
 <img src="https://github.com/ptecc208/ptecc208/blob/output/github-snake-dark.svg" width="100%">
 
-![Com2us](https://img.shields.io/badge/com2us%20-%23FF0000.svg?style=for-the-badge&logo=com2us&logoColor=white)
+
