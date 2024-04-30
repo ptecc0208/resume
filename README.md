@@ -36,6 +36,14 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+---
+
+### *Certificate*
+#### - 무대예술전문인 음향3급
+####  - 워드프로세서 1급
+
+### * Portfolio *
+
 
 #### :waxing_crescent_moon: Contact :waxing_crescent_moon:
 
