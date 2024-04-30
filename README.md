@@ -17,7 +17,12 @@
 
 &emsp;&emsp;&emsp;출동 슈퍼윙스 사운드 제작 / 두다다쿵 극장판 사운드 제작 / 시간의 여행자 루크 믹스
 
-### :sparkles::boom: Tools :boom::sparkles:
+### :boom: Education & Experience :boom:
+#### - 백석대학교 실용음악과 음향파트 (2013.03 ~ 2020.08)
+#### - 약 30개의 음반에 Vox/Inst 녹음, 믹스&마스터링 참여
+#### - 다양한 공연의 음향 오퍼레이터, 무대 크루 참여
+
+### :sparkles: Tools :sparkles:
 ![Static Badge](https://img.shields.io/badge/Protools%20-%23FF0000.svg?style=for-the-badge&logo=protools&logoColor=violet&logoSize=auto&label=&labelColor=White&color=black&cacheSeconds=3600)
 ![Static Badge](https://img.shields.io/badge/Cubase%20-%23FF0000.svg?style=for-the-badge&logo=Cubase&logoColor=violet&logoSize=auto&label=&labelColor=White&color=black&cacheSeconds=3600)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
