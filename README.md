@@ -28,7 +28,13 @@
 
 ---
 
-### :sparkles: Tools :sparkles:
+### *:boom: Certificate :boom:*
+#### - 무대예술전문인 음향3급
+####  - 워드프로세서 1급
+
+---
+
+### *:sparkles: Tools :sparkles:*
 ![Static Badge](https://img.shields.io/badge/Protools%20-%23FF0000.svg?style=for-the-badge&logo=protools&logoColor=violet&logoSize=auto&label=&labelColor=White&color=black&cacheSeconds=3600)
 ![Static Badge](https://img.shields.io/badge/Cubase%20-%23FF0000.svg?style=for-the-badge&logo=Cubase&logoColor=violet&logoSize=auto&label=&labelColor=White&color=black&cacheSeconds=3600)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -38,11 +44,10 @@
 
 ---
 
-### *Certificate*
-#### - 무대예술전문인 음향3급
-####  - 워드프로세서 1급
 
-### * Portfolio *
+
+### *:sparkles: Portfolio :sparkles:*
+#### - 명조 워더링 인게임 스킬 사운드
 [![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
 
 
