@@ -24,6 +24,8 @@
 ### *:boom: Education & Experience :boom:*
 #### - 백석대학교 실용음악과 음향파트 (2013.03 ~ 2020.08)
 #### - 약 40개의 음반에 Vox/Inst 녹음, 믹스&마스터링 참여
+#### - 광고 스튜디오 사운드 디자인 참여
+#### - 문화재단 음향 오퍼레이터 참여
 #### - 다양한 공연의 음향 오퍼레이터, 무대 크루 참여
 
 ---
@@ -45,10 +47,14 @@
 ---
 
 ### *:sparkles: Portfolio :sparkles:*
-#### - 리니지W 트레일러 3종 merged
 
+#### - 리니지W 트레일러 사운드 3종 merged (01_LineageW 3종 merged)
+[![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
 
-#### - 명조 워더링 인게임 스킬 사운드
+#### - 파이널 판타지 16 인게임 보스전 사운드 (02_FINAL FANTASY XVI Tonberry King)
+[![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
+
+#### - 명조 워더링 인게임 스킬 사운드 (03_Wuthering Waves)
 [![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
 
 ---
