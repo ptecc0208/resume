@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&pause=1000&random=false&width=435&lines=Hello!+I'm+jinsu+Park)](https://git.io/typing-svg)
 
 ### 안녕하세요. 게임 사운드 디자이너 박진수입니다.
-### 게임 사운드 디자인 및 게임 엔진을 활용한 적용 및 기술 연구를 하고 있습니다.
+### 게임 사운드 디자인, 게임 엔진을 활용한 적용 및 기술 연구를 하고 있습니다.
 ###
 
 ---
