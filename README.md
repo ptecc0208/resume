@@ -48,7 +48,7 @@
 ### *:sparkles: Portfolio :sparkles:*
 
 #### - 리니지W 트레일러 사운드 3종 merged (01_LineageW 3종 merged)
-[![Video Label](http://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Video Label](http://img.youtube.com/vi/NYIub3tZiZ4/0.jpg)](https://www.youtube.com/watch?v=NYIub3tZiZ4)
 
 #### - 파이널 판타지 16 인게임 보스전 사운드 (02_FINAL FANTASY XVI Tonberry King)
 [![Video Label](http://img.youtube.com/vi/u7hlyFhRE8w/0.jpg)](https://www.youtube.com/watch?v=u7hlyFhRE8w)
