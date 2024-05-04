@@ -48,10 +48,10 @@
 ### *:sparkles: Portfolio :sparkles:*
 
 #### - 리니지W 트레일러 사운드 3종 merged (01_LineageW 3종 merged)
-[![Video Label](http://img.youtube.com/vi/90qEs4nWanA/0.jpg)](https://www.youtube.com/watch?v=90qEs4nWanA)
+[![Video Label](http://img.youtube.com/vi/NYIub3tZiZ4/0.jpg)](https://www.youtube.com/watch?v=NYIub3tZiZ4)
 
 #### - 파이널 판타지 16 인게임 보스전 사운드 (02_FINAL FANTASY XVI Tonberry King)
-[![Video Label](http://img.youtube.com/vi/VZrfCBukkxg/0.jpg)](https://www.youtube.com/watch?v=VZrfCBukkxg)
+[![Video Label](http://img.youtube.com/vi/u7hlyFhRE8w/0.jpg)](https://www.youtube.com/watch?v=u7hlyFhRE8w)
 
 #### - 명조 워더링 인게임 스킬 사운드 (03_Wuthering Waves)
 [![Video Label](http://img.youtube.com/vi/SzuAChX0kos/0.jpg)](https://www.youtube.com/watch?v=SzuAChX0kos)
