@@ -47,7 +47,7 @@
 
 ### *:sparkles: Portfolio :sparkles:*
 
-#### - TL 인게임 스킬 사운드 (01_TL Ingame Skill Sound)
+#### - TL 인게임 스킬 사운드 (01_TL Ingame Skill Sound) 
 [![Video Label](http://img.youtube.com/vi/BFVzB8taEAw/0.jpg)](https://www.youtube.com/watch?v=BFVzB8taEAw)
 
 #### - 리니지W 트레일러 사운드 3종 merged (02_LineageW 3종 merged)
