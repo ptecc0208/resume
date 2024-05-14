@@ -11,6 +11,7 @@
 ### *:rocket: Employment History :rocket:*
 #### - 컴투스 (2021.05 ~ 2024.02)
 &emsp;&emsp;&emsp;서머너즈 워 크로니클 (MMORPG) 게임 내 사운드 제작, 믹스/마스터링, 적용 및 QA
+&emsp;&emsp;&emsp; BGM 전곡 STEM 믹스/마스터링, 사운드 에셋 관리, 외주 파일 관리
 
 #### - 스튜디오 도마 (2020.12 ~ 2021.04)
 &emsp;&emsp;&emsp;넷이즈_G83 shooting game / 동방불패 모바일 트레일러 3종
