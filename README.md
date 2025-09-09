@@ -49,19 +49,6 @@
 
 ### *:sparkles: Portfolio :sparkles:*
 
-#### - 바람이 만나는 곳 트레일러 사운드 (01_Where Winds Meet Sound)
-[![Video Label](http://img.youtube.com/vi/_6YK4abz1Z8/0.jpg)](https://www.youtube.com/watch?v=_6YK4abz1Z8)
-
-#### - TL 인게임 스킬 사운드 (01_TL Ingame Skill Sound) 
-[![Video Label](http://img.youtube.com/vi/BFVzB8taEAw/0.jpg)](https://www.youtube.com/watch?v=BFVzB8taEAw)
-
-#### - 리니지W 트레일러 사운드 3종 merged (02_LineageW 3종 merged)
-[![Video Label](http://img.youtube.com/vi/NYIub3tZiZ4/0.jpg)](https://www.youtube.com/watch?v=NYIub3tZiZ4)
-
-#### - 파이널 판타지 16 인게임 보스전 사운드 (03_FINAL FANTASY XVI Tonberry King)
-[![Video Label](http://img.youtube.com/vi/u7hlyFhRE8w/0.jpg)](https://www.youtube.com/watch?v=u7hlyFhRE8w)
-
-
 ---
 
 #### :waxing_crescent_moon: Contact :waxing_crescent_moon:
